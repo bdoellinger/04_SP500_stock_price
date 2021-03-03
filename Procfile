@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run cryptocurrency.py
+web: sh setup.sh && streamlit run SP500_stock_price.py
